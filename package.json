@@ -1,0 +1,14 @@
+{
+  "name": "automated-invoice-generator",
+  "version": "1.0.0",
+  "description": "Automated Invoice Generator",
+  "main": "invoice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oluyemi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.7.2"
+  }
+}
